@@ -1,0 +1,100 @@
+1	World of Warcraft	2000-07-11	24.69	18	CPU Intel Core i5 or better, GPU AMD R400 Series or better, RAM 16 GB or more.	0	90	0
+2	Psychonauts	2000-11-22	40.47	3	CPU Intel Core i3 or better, GPU Nvidia GeForce 200 series or better, RAM 8 GB or more.	0	462	1
+3	50 Cent: Blood on the Sand	2000-12-15	38.80	3	CPU Intel Celeron or better, GPU AMD R400 Series or better, RAM 4 GB or more.	0	205	1
+4	Medal of Honor	2001-06-06	36.40	7	CPU Intel Core i3 or better, GPU AMD R300 Series or better, RAM 12 GB or more.	0	92	1
+5	Rock Band	2002-12-25	25.45	3	CPU Intel Pentium II or better, GPU AMD Radeon 7000 Series or better, RAM 12 GB or more.	0	187	0
+6	Resistance 2	2003-04-28	24.03	18	CPU Intel Atom or better, GPU Nvidia GeForce 900 series or better, RAM 8 GB or more.	0	14	2
+7	Grand Theft Auto: San Andreas	2004-12-30	34.47	16	CPU Intel Pentium 4 or better, GPU AMD R300 Series or better, RAM 8 GB or more.	0	229	0
+8	Halo Wars	2007-03-22	37.58	7	CPU AMD Ryzen 5 or better, GPU Nvidia GeForce 9800 or better, RAM 8 GB or more.	0	100	0
+9	Brothers in Arms: Hells Highway	2007-05-30	7.60	16	CPU AMD Ryzen 3 or better, GPU AMD Radeon 8000 Series or better, RAM 8 GB or more.	0	390	0
+10	The Darkness	2007-07-27	8.95	16	CPU AMD Ryzen 5 or better, GPU Nvidia GeForce 300 series or better, RAM 16 GB or more.	0	265	0
+11	Assassins Creed: Brotherhood	2007-12-06	32.21	12	CPU AMD Ryzen 3 or better, GPU AMD R200 Series or better, RAM 16 GB or more.	0	264	0
+12	Resident Evil 4	2008-02-20	36.73	18	CPU Intel Celeron or better, GPU AMD Radeon 9000 Series or better, RAM 16 GB or more.	0	189	0
+13	Army of Two	2008-05-12	36.86	12	CPU AMD Ryzen 5 or better, GPU AMD R400 Series or better, RAM 16 GB or more.	0	20	0
+14	Prince of Persia	2009-04-01	23.33	18	CPU Intel Core i5 or better, GPU Nvidia GeForce 200 series or better, RAM 16 GB or more.	0	319	0
+15	Call of Duty: World at War	2017-01-17	8.90	16	CPU Intel Core i7 or better, GPU Nvidia GeForce 10XX series or better, RAM 8 GB or more.	0	82	2
+16	LEGO Indiana Jones: The Original Adventures	2011-02-08	16.25	12	CPU Intel Core i3 or better, GPU Nvidia GeForce 8800 or better, RAM 16 GB or more.	0	488	0
+17	Super Meat Boy	2012-01-05	16.08	3	CPU Intel Pentium III or better, GPU Nvidia GeForce 9800 or better, RAM 16 GB or more.	0	478	0
+18	Marvel vs. Capcom 3: Fate of Two Worlds	2013-08-15	42.10	16	CPU Intel Atom or better, GPU Nvidia GeForce 400 series or better, RAM 4 GB or more.	0	35	0
+19	Halo 3: ODST	2014-11-27	18.39	12	CPU AMD Ryzen 3 or better, GPU Nvidia GeForce 600 series or better, RAM 4 GB or more.	0	88	2
+20	Final Fantasy XII	2015-03-04	17.76	18	CPU Intel Celeron or better, GPU AMD R500 Series or better, RAM 16 GB or more.	0	456	1
+21	Max Payne 3	2015-04-24	2.28	3	CPU Intel Core i5 or better, GPU Nvidia GeForce 500 series or better, RAM 4 GB or more.	0	481	0
+22	Rock Band 2	2015-09-22	32.92	12	CPU Intel Atom or better, GPU Nvidia GeForce 8800 or better, RAM 16 GB or more.	0	199	0
+23	Guitar Hero III: Legends of Rock	2016-04-29	31.85	18	CPU Intel Atom or better, GPU AMD Radeon 7000 Series or better, RAM 4 GB or more.	0	199	0
+24	Mass Effect 3	2017-01-02	34.74	16	CPU Intel Core i5 or better, GPU Nvidia GeForce 900 series or better, RAM 16 GB or more.	0	432	0
+25	Team Fortress 2	2017-04-20	28.94	3	CPU Intel Pentium III or better, GPU AMD R500 Series or better, RAM 4 GB or more.	0	146	0
+26	Braid	2000-03-28	37.64	18	CPU Intel Pentium II or better, GPU AMD Radeon 7000 Series or better, RAM 16 GB or more.	0	463	0
+27	Saints Row: The Third	2001-08-10	6.39	3	CPU Intel Core i5 or better, GPU Nvidia GeForce 10XX series or better, RAM 4 GB or more.	0	232	0
+28	Costume Quest	2003-06-17	4.86	12	CPU Intel Core 2 or better, GPU Nvidia GeForce 200 series or better, RAM 12 GB or more.	0	158	1
+29	Torchlight	2003-06-26	27.71	7	CPU Intel Atom or better, GPU Nvidia GeForce 300 series or better, RAM 8 GB or more.	0	3	0
+30	Enslaved: Odyssey to the West	2003-09-10	7.19	18	CPU Intel Core i3 or better, GPU AMD Radeon 7000 Series or better, RAM 4 GB or more.	0	239	2
+31	Shadows of the Damned	2004-01-09	2.56	3	CPU AMD Athlon 64 or better, GPU Nvidia GeForce 10XX series or better, RAM 8 GB or more.	0	490	0
+32	F.E.A.R. 2: Project Origin	2005-04-13	2.13	12	CPU AMD Ryzen 3 or better, GPU AMD R400 Series or better, RAM 8 GB or more.	0	429	0
+33	Silent Hill: Homecoming	2005-04-18	7.25	18	CPU Intel Core 2 or better, GPU Nvidia GeForce 9800 or better, RAM 4 GB or more.	0	241	0
+34	Dishonored	2006-02-28	24.28	16	CPU AMD Athlon 64 or better, GPU AMD Radeon 9000 Series or better, RAM 12 GB or more.	0	55	0
+35	Dead Island	2007-01-16	9.31	16	CPU Intel Core i3 or better, GPU Nvidia GeForce 10XX series or better, RAM 12 GB or more.	0	344	0
+36	Heavy Rain	2007-08-29	41.52	12	CPU AMD Ryzen 7 or better, GPU AMD Radeon 9000 Series or better, RAM 4 GB or more.	0	52	0
+37	Grand Theft Auto IV	2008-04-18	38.15	7	CPU Intel Core i3 or better, GPU AMD R200 Series or better, RAM 8 GB or more.	0	316	2
+38	Halo: Reach	2010-07-27	31.82	18	CPU Intel Core i3 or better, GPU Nvidia GeForce 500 series or better, RAM 16 GB or more.	0	203	1
+39	Killzone 3	2011-07-26	23.10	7	CPU Intel Core 2 or better, GPU AMD R300 Series or better, RAM 4 GB or more.	0	109	0
+40	Limbo	2013-04-22	37.99	12	CPU Intel Pentium 4 or better, GPU Nvidia GeForce 400 series or better, RAM 4 GB or more.	0	342	0
+41	Final Fantasy X	2013-12-02	20.95	12	CPU AMD Ryzen 7 or better, GPU AMD Radeon 9000 Series or better, RAM 4 GB or more.	0	333	0
+42	Ratchet & Clank Future: Tools of Destruction	2015-01-02	37.78	7	CPU Intel Core i7 or better, GPU Nvidia GeForce 200 series or better, RAM 4 GB or more.	0	75	0
+43	Assassins Creed III	2015-01-05	32.94	7	CPU Intel Pentium III or better, GPU AMD Radeon 9000 Series or better, RAM 16 GB or more.	0	108	0
+44	Metal Gear Solid 4: Guns of the Patriots	2015-03-11	17.30	3	CPU Intel Core i3 or better, GPU Nvidia GeForce 400 series or better, RAM 16 GB or more.	0	311	1
+45	Resistance: Fall of Man	2015-06-22	11.34	16	CPU Intel Atom or better, GPU Nvidia GeForce 10XX series or better, RAM 4 GB or more.	0	98	1
+46	Deus Ex: Human Revolution	2015-09-23	31.41	3	CPU Intel Core i3 or better, GPU AMD Radeon 9000 Series or better, RAM 4 GB or more.	0	252	2
+47	Sid Meiers Civilization Revolution	2015-12-08	15.01	18	CPU Intel Core i3 or better, GPU AMD Radeon 8000 Series or better, RAM 4 GB or more.	0	33	1
+48	The Elder Scrolls V: Skyrim	2011-11-11	7.65	16	CPU Intel Pentium III or better, GPU Nvidia GeForce 300 series or better, RAM 8 GB or more.	0	41	0
+49	Kane & Lynch 2: Dog Days	2016-09-26	29.08	16	CPU Intel Core i5 or better, GPU AMD Radeon 7000 Series or better, RAM 4 GB or more.	0	307	1
+50	The Orange Box	2009-09-01	14.01	12	CPU Intel Pentium II or better, GPU Nvidia GeForce 10XX series or better, RAM 12 GB or more.	0	134	1
+51	Mercenaries 2: World in Flames	2000-01-24	19.81	16	CPU Intel Core i5 or better, GPU AMD Radeon 9000 Series or better, RAM 8 GB or more.	0	321	0
+52	Metal Gear Solid	2000-11-13	1.88	7	CPU AMD Ryzen 3 or better, GPU Nvidia GeForce 8800 or better, RAM 4 GB or more.	0	188	1
+53	Lost Odyssey	2001-04-02	4.61	3	CPU Intel Core i3 or better, GPU Nvidia GeForce 9800 or better, RAM 16 GB or more.	0	61	0
+54	Gears of War 2	2001-06-29	4.76	12	CPU Intel Core i5 or better, GPU Nvidia GeForce 10XX series or better, RAM 8 GB or more.	0	423	1
+55	Super Mario Galaxy	2002-01-04	6.01	18	CPU Intel Core i3 or better, GPU Nvidia GeForce 600 series or better, RAM 12 GB or more.	0	429	0
+56	Condemned 2: Bloodshot	2002-06-17	37.59	7	CPU AMD Ryzen 7 or better, GPU AMD R200 Series or better, RAM 8 GB or more.	0	372	0
+57	Splosion Man	2002-08-20	14.19	3	CPU Intel Core i5 or better, GPU AMD Radeon 8000 Series or better, RAM 16 GB or more.	0	223	0
+58	Halo: Combat Evolved	2002-10-17	10.03	18	CPU Intel Pentium II or better, GPU Nvidia GeForce 10XX series or better, RAM 8 GB or more.	0	388	0
+59	Indigo Prophecy	2005-06-30	19.77	16	CPU AMD Ryzen 3 or better, GPU Nvidia GeForce 700 series or better, RAM 4 GB or more.	0	380	0
+60	inFamous	2005-11-07	16.48	16	CPU Intel Core i3 or better, GPU Nvidia GeForce 300 series or better, RAM 12 GB or more.	0	74	1
+61	Call of Duty: Modern Warfare 3	2006-08-16	21.33	7	CPU Intel Pentium II or better, GPU Nvidia GeForce 300 series or better, RAM 16 GB or more.	0	425	0
+62	L.A. Noire	2006-08-30	39.20	18	CPU AMD Athlon 64 or better, GPU AMD R400 Series or better, RAM 8 GB or more.	0	230	0
+63	Halo 4	2008-08-18	5.51	7	CPU Intel Pentium II or better, GPU Nvidia GeForce 400 series or better, RAM 12 GB or more.	0	328	0
+64	Ninja Gaiden II	2008-11-19	42.23	18	CPU Intel Core i7 or better, GPU Nvidia GeForce 200 series or better, RAM 8 GB or more.	0	48	0
+65	Duke Nukem Forever	2008-12-31	11.84	16	CPU Intel Pentium II or better, GPU Nvidia GeForce 8800 or better, RAM 4 GB or more.	0	192	0
+66	Alone in the Dark	2009-09-23	9.53	18	CPU AMD Athlon 64 or better, GPU AMD Radeon 8000 Series or better, RAM 4 GB or more.	0	275	0
+67	Battlefield: Bad Company	2012-02-22	20.46	18	CPU Intel Pentium 4 or better, GPU Nvidia GeForce 10XX series or better, RAM 4 GB or more.	0	469	0
+68	Crysis	2014-03-04	11.42	18	CPU Intel Core i5 or better, GPU AMD Radeon 7000 Series or better, RAM 4 GB or more.	0	460	1
+69	Diablo III	2014-09-03	15.13	3	CPU Intel Pentium III or better, GPU Nvidia GeForce 700 series or better, RAM 16 GB or more.	0	290	0
+70	Gears of War 3	2014-12-31	3.15	7	CPU Intel Celeron or better, GPU Nvidia GeForce 300 series or better, RAM 16 GB or more.	0	488	0
+71	Super Mario Galaxy 2	2015-04-23	7.08	7	CPU Intel Core i5 or better, GPU AMD Radeon 7000 Series or better, RAM 8 GB or more.	0	291	0
+72	Battlefield: Bad Company 2	2015-06-11	3.62	7	CPU AMD Ryzen 7 or better, GPU Nvidia GeForce 500 series or better, RAM 8 GB or more.	0	448	1
+73	No More Heroes	2016-10-18	25.19	3	CPU Intel Pentium III or better, GPU AMD Radeon 8000 Series or better, RAM 4 GB or more.	0	521	0
+74	God of War	2016-10-26	32.12	16	CPU AMD Ryzen 3 or better, GPU Nvidia GeForce 300 series or better, RAM 12 GB or more.	0	249	0
+75	Saints Row 2	2016-12-07	26.78	18	CPU Intel Core i7 or better, GPU Nvidia GeForce 8800 or better, RAM 12 GB or more.	0	66	0
+76	Super Smash Bros. Brawl	2000-06-15	35.03	16	CPU AMD Athlon 64 or better, GPU AMD Radeon 7000 Series or better, RAM 8 GB or more.	0	416	0
+77	Final Fantasy VII	2002-12-06	36.72	18	CPU Intel Core i7 or better, GPU Nvidia GeForce 500 series or better, RAM 4 GB or more.	0	416	2
+78	LittleBigPlanet	2005-03-16	26.02	3	CPU Intel Core i7 or better, GPU Nvidia GeForce 500 series or better, RAM 8 GB or more.	0	518	0
+79	BioShock 2	2005-07-18	18.59	16	CPU Intel Core i3 or better, GPU AMD Radeon 7000 Series or better, RAM 8 GB or more.	0	206	1
+80	F.E.A.R. 3	2005-09-02	34.88	3	CPU Intel Pentium III or better, GPU AMD R200 Series or better, RAM 12 GB or more.	0	437	0
+81	Dantes Inferno	2007-01-31	29.58	16	CPU Intel Atom or better, GPU Nvidia GeForce 900 series or better, RAM 4 GB or more.	0	31	0
+82	Call of Duty 4: Modern Warfare	2008-02-29	31.67	3	CPU Intel Core i3 or better, GPU AMD Radeon 8000 Series or better, RAM 8 GB or more.	0	307	1
+83	Shadow Complex	2008-04-07	12.99	18	CPU Intel Core 2 or better, GPU AMD R200 Series or better, RAM 16 GB or more.	0	94	0
+84	Fallout: New Vegas	2008-07-16	14.24	12	CPU Intel Atom or better, GPU Nvidia GeForce 400 series or better, RAM 4 GB or more.	0	418	0
+85	MadWorld	2009-02-13	17.72	16	CPU AMD Athlon 64 or better, GPU Nvidia GeForce 600 series or better, RAM 8 GB or more.	0	187	1
+86	Dark Souls	2009-07-20	10.69	3	CPU AMD Ryzen 3 or better, GPU Nvidia GeForce 900 series or better, RAM 12 GB or more.	0	507	2
+87	Transformers: War For Cybertron	2009-10-19	1.87	12	CPU Intel Celeron or better, GPU Nvidia GeForce 9800 or better, RAM 4 GB or more.	0	500	1
+88	Dead Space 2	2009-10-26	37.27	7	CPU Intel Core i3 or better, GPU Nvidia GeForce 300 series or better, RAM 8 GB or more.	0	338	0
+89	Killzone 2	2010-05-21	34.81	7	CPU Intel Pentium II or better, GPU Nvidia GeForce 900 series or better, RAM 16 GB or more.	0	392	0
+90	BioShock	2011-09-07	12.00	3	CPU AMD Ryzen 5 or better, GPU Nvidia GeForce 10XX series or better, RAM 4 GB or more.	0	517	0
+91	Final Fantasy XIII	2012-01-04	1.29	7	CPU AMD Ryzen 3 or better, GPU AMD R500 Series or better, RAM 8 GB or more.	0	483	0
+92	Ghostbusters: The Video Game	2012-10-10	24.33	7	CPU AMD Ryzen 5 or better, GPU Nvidia GeForce 9800 or better, RAM 12 GB or more.	0	108	2
+93	Too Human	2013-03-19	34.34	16	CPU Intel Core i7 or better, GPU Nvidia GeForce 500 series or better, RAM 12 GB or more.	0	294	0
+94	Robert Ludlums The Bourne Conspiracy	2013-04-08	31.75	12	CPU AMD Ryzen 3 or better, GPU AMD R300 Series or better, RAM 16 GB or more.	0	38	0
+95	Army of Two: The 40th Day	2014-04-21	27.98	18	CPU Intel Core i3 or better, GPU AMD R200 Series or better, RAM 12 GB or more.	0	186	0
+96	Demons Souls	2014-11-04	34.81	3	CPU Intel Pentium 4 or better, GPU Nvidia GeForce 10XX series or better, RAM 4 GB or more.	0	20	0
+97	Vanquish	2015-04-01	3.78	18	CPU Intel Pentium III or better, GPU AMD Radeon 9000 Series or better, RAM 16 GB or more.	0	219	0
+98	Bayonetta	2015-07-16	8.15	3	CPU Intel Core i7 or better, GPU Nvidia GeForce 700 series or better, RAM 12 GB or more.	0	486	0
+99	Bulletstorm	2015-11-17	40.53	16	CPU AMD Ryzen 5 or better, GPU AMD R500 Series or better, RAM 8 GB or more.	0	308	1
+100	Super Street Fighter IV	2016-04-11	28.44	12	CPU Intel Celeron or better, GPU AMD R300 Series or better, RAM 16 GB or more.	0	1	0

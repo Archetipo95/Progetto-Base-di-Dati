@@ -1,0 +1,525 @@
+1	0verflow
+2	1st Playable Productions
+3	2K Games
+4	343 Industries
+5	38 Studios
+6	3D Realms
+7	3G Studios
+8	42 Entertainment
+9	4A Games
+10	5pb. Inc.
+11	5th Cell
+12	989 Studios
+13	Abstraction Games
+14	Acclaim Entertainment
+15	Accolade
+16	Access Games
+17	ACE Team
+18	Aces Studio
+19	Acheron Design
+20	Action Forms
+21	Active Gaming Media
+22	Activision
+23	Adventure Soft
+24	Akella
+25	Aki Corporation
+26	Alfa System
+27	Amazon Game Studios
+28	Ancient
+29	Anino Games
+30	Ankama Games
+31	AQ Interactive
+32	Arc System Works
+33	Arkane Studios
+34	Arkedo Studio
+35	ArenaNet
+36	Arika
+37	Armor Project
+38	Art Co., Ltd
+39	Artdink
+40	ArtePiazza
+41	Artificial Studios
+42	Artoon
+43	Ascaron
+44	Asobo Studio
+45	Atlus
+46	Atomic Planet Entertainment
+47	Attic Entertainment Software
+48	Avalanche Software
+49	Avalanche Studios
+50	Aventurine SA
+51	Babaroga
+52	Backbone Entertainment
+53	Bandai Namco Studios
+54	Banpresto
+55	Bauhaus Entertainment
+56	Beenox
+57	Behaviour Interactive
+58	Bethesda Softworks
+59	Big Huge Games
+60	Binary Hammer
+61	BioWare
+62	Bird Studio
+63	The Bitmap Brothers
+64	Bits Studios
+65	Bizarre Creations
+66	Black Forest Games
+67	Black Isle Studios
+68	Black Rock Studio
+69	Black Shell Games
+70	Black Wing Foundation
+71	Blitz Games Studios
+72	Blizzard Entertainment
+73	Blue Byte
+74	Blue Fang Games
+75	Blue Tongue Entertainment
+76	Bohemia Interactive
+77	Boss Fight Entertainment
+78	Boss Key Productions
+79	BreakAway Games
+80	Brřderbund
+81	Brownie Brown
+82	Bugbear Entertainment
+83	Buka Entertainment
+84	Bullfrog Productions
+85	Bungie
+86	Capcom
+87	Capcom Vancouver
+88	Carbine Studios
+89	Cauldron
+90	Cave
+91	Cavia
+92	CCP Games
+93	CD Projekt RED
+94	Centuri
+95	Certain Affinity
+96	Chair Entertainment
+97	Chunsoft
+98	Cing
+99	Clap Hanz
+100	Climax Entertainment
+101	Climax Studios
+102	Cloud Imperium Games
+103	Clover Studio
+104	Coded Illusions
+105	Codemasters
+106	Coktel Vision
+107	Colossal Order
+108	Compile Heart
+109	Compulsion Games
+110	Core Design
+111	Crafts & Meister
+112	Creat Studios
+113	Creative Assembly
+114	Criterion Games
+115	Croteam
+116	Cryo Interactive
+117	Cryptic Studios
+118	Crystal Dynamics
+119	Crytek
+120	Crytek UK
+121	Cyan Worlds
+122	Cyanide
+123	Cyberdreams
+124	CyberConnect2
+125	Cyberlore Studios
+126	CyberStep
+127	D-Pad Studio
+128	Dambuster Studios
+129	Day 1 Studios
+130	Deadline Games
+131	Deck13
+132	Demiurge Studios
+133	devCAT Studios
+134	Dhruva Interactive
+135	Die Gute Fabrik
+136	Digital Illusions CE (EA DICE)
+137	Digital Reality
+138	Dimps
+139	Disney Interactive Studios
+140	Double Fine Productions
+141	Double Helix Games
+142	Dynamix
+143	Egosoft
+144	Eidos Interactive
+145	Electronic Arts
+146	Elemental Games
+147	Elev8 Games
+148	Engine Software
+149	Ensemble Studios
+150	Epic Games
+151	Epic Games Poland
+152	Epicenter Studios
+153	Epyx
+154	Etranges Libellules
+155	Eugen Systems
+156	Eurocom
+157	Evolution Studios
+158	Eyedentity Games
+159	Gaijin Entertainment
+160	Game Arts
+161	Game Freak
+162	GameHouse
+163	Gameloft
+164	Games2win
+165	Gearbox Software
+166	Geewa
+167	Genki
+168	Giant Interactive
+169	Glu Mobile
+170	Gogii Games
+171	Good-Feel
+172	Grasshopper Manufacture
+173	Gravity
+174	Gremlin Interactive
+175	Grezzo
+176	Griptonite Games
+177	GSC Game World
+178	Guerrilla Cambridge
+179	Guerrilla Games
+180	GungHo Online Entertainment
+181	Gust Corporation
+182	Haemimont Games
+183	HappySoft
+184	HAL Laboratory
+185	Halfbrick
+186	Hanaho
+187	Hangar 13
+188	Harebrained Schemes
+189	Harmonix Music Systems
+190	Hasbro Interactive
+191	HB Studios
+192	HeroCraft
+193	High Moon Studios
+194	High Voltage Software
+195	Hoplon Infotainment
+196	Hothead Games
+197	Housemarque
+198	Hudson Soft
+199	Human Head Studios
+200	Humongous Entertainment
+201	Hyperion Entertainment
+202	id Software
+203	Idea Factory
+204	Idol Minds
+205	Imageepoch
+206	Infinity Ward
+207	Infocom
+208	Infogrames
+209	Incredible Technologies
+210	indieszero
+211	Innerloop Studios
+212	Insomniac Games
+213	Intelligent Systems
+214	Interceptor Entertainment
+215	Interplay Entertainment
+216	Inti Creates
+217	Introversion Software
+218	IO Interactive
+219	Ion Storm
+220	Ion Storm Austin
+221	Irem
+222	Iron Galaxy Studios
+223	Irrational Games
+224	Jadestone Group
+225	Jagex
+226	Jaleco
+227	Javaground
+228	JoWood Entertainment AG
+229	Juice Games
+230	Jupiter
+231	JV Games
+232	Kairosoft
+233	Kalypso Media
+234	Kaos Studios
+235	Keen Software House
+236	Kiloo Games
+237	King Digital Entertainment
+238	Koei
+239	KOG Studios
+240	Konami
+241	Kongzhong
+242	Krome Studios
+243	Krome Studios Melbourne
+244	Kuju Entertainment
+245	Kush Games
+246	Kuma Reality Games
+247	Larian Studios
+248	Legacy Interactive
+249	Legend Entertainment
+250	Legendo Entertainment
+251	LEGO Group
+252	Level-5
+253	Lionhead Studios
+254	Liquid Entertainment
+255	Little Green Men Games
+256	LK Avalon
+257	Llamasoft
+258	Linden Lab
+259	Looking Glass Studios
+260	LucasArts
+261	Luma Arcade
+262	Luxoflux
+263	MachineGames
+264	Magenta Software
+265	Majesco Entertainment
+266	Marvelous Entertainment
+267	Massive Entertainment
+268	Masthead Studios
+269	Maxis Software
+270	Mean Hamster Software
+271	Media Molecule
+272	Mediatonic
+273	MegaZebra
+274	Mercury Steam
+275	Metropolis Software
+276	MicroProse Software
+277	Microsoft Studios
+278	Midway Games
+279	Milestone
+280	Milestone S.r.l.
+281	Mistwalker
+282	Mitchell Corporation
+283	Mojang AB
+284	Monolith Productions
+285	Monolith Soft
+286	Mythic Entertainment
+287	Nadeo
+288	Nanobit
+289	Natsume
+290	Naughty Dog
+291	NCsoft
+292	NDOORS Corporation
+293	Neowiz
+294	Nerve Software
+295	NetDevil
+296	Netdragon
+297	Netease
+298	NetherRealm Studios
+299	Neversoft
+300	Nevosoft
+301	Nexon
+302	Next Level Games
+303	NGD Studios
+304	Nibris
+305	Nihon Falcom
+306	Nikita Online
+307	Ninjabee
+308	Ninja Theory
+309	Nintendo
+310	Nippon Ichi Software
+311	Nival
+312	Nordeus
+313	Novalogic
+314	Novarama
+315	n-Space
+316	Obsidian Entertainment
+317	Oddworld Inhabitants
+318	Omega Force
+319	Origin Systems
+320	Outrage Entertainment
+321	Overkill Software
+322	Oxygen Studios
+323	Page 44 Studios
+324	Pangea Software
+325	Project Sora
+326	Papaya Studio
+327	Project Soul
+328	Panther Games Pty Ltd
+329	Paradox Development Studio
+330	Parallax Software
+331	Pandemic Studios
+332	Pendulo Studios
+333	Penguin Software
+334	Perfect World
+335	Petroglyph
+336	Phantagram
+337	Phenomic Game Development
+338	Piranha Bytes
+339	Pi Studios
+340	Pivotal Games
+341	Pixel Press
+342	Playdom
+343	Playfish
+344	PlayFirst
+345	Playground Games
+346	PlatinumGames
+347	Polyphony Digital
+348	PopCap Games
+349	Press Play
+350	Punch Entertainment
+351	Pyro Studios
+352	Q Entertainment
+353	Q-Games
+354	Quantic Dream
+355	Radical Entertainment
+356	Rage Software
+357	Rainbow Studios
+358	Rare
+359	Raven Software
+360	Red Entertainment
+361	Reality Pump Studios
+362	Realtime Associates
+363	Realtime Worlds
+364	Rebellion Developments
+365	RedLynx
+366	Red Thread Games
+367	Red Storm Entertainment
+368	Redtribe
+369	Reflections Interactive
+370	Reflexive Entertainment
+371	Relic Entertainment
+372	Remedy Entertainment
+373	Respawn Entertainment
+374	Reto-Moto
+375	Retro Studios
+376	Revolution Software
+377	Riot Games
+378	Rising Star Games
+379	Robot Entertainment
+380	Rockstar Games
+381	Rocksteady Studios
+382	Robinson Technologies
+383	Rovio Entertainment
+384	Ruffian Games
+385	Runic Games
+386	Running With Scissors
+387	Sand Grain Studios
+388	Sanuk Games
+389	SCS Software
+390	Sega
+391	Sensible Software
+392	Serious Games Interactive
+393	Sega AM2
+394	SIE Bend Studio
+395	SIE Foster City Studio
+396	SIE Japan Studio
+397	SIE London Studio
+398	SIE San Diego Studio
+399	SIE Santa Monica Studio
+400	SCE Studio Liverpool
+401	SIE Worldwide Studios
+402	Shanda
+403	Sherman3D
+404	Sierra Entertainment
+405	Silicon Knights
+406	Silicon Studio
+407	Simtex
+408	Sledgehammer Games
+409	Snail Games
+410	SNK Playmore
+411	Sobee Studios
+412	Snowblind Studios
+413	Software 2000
+414	Sonic Team
+415	Sony Interactive Entertainment
+416	Sora Ltd.
+417	Spectrum HoloByte
+418	Spellbound Entertainment
+419	Spike
+420	Spike Chunsoft
+421	Spil Games
+422	Splash Damage
+423	Sproing Interactive Media
+424	Square Enix
+425	Stainless Games
+426	Stainless Steel Studios
+427	Starbreeze Studios
+428	Stardock
+429	Sting Entertainment
+430	Strategic Simulations
+431	Strawdog Studios
+432	Straylight Studios
+433	Streamline Studios
+434	Sucker Punch Productions
+435	Sumo Digital
+436	Sunflowers Interactive Entertainment Software
+437	Supercell
+438	SuperVillain Studios
+439	Swingin Ape Studios
+440	StormRegion
+441	Taito
+442	Tango Gameworks
+443	Tag Games
+444	Take-Two Interactive
+445	TaleWorlds
+446	Tamsoft
+447	Tantrumedia
+448	Tantalus Media
+449	Tate Interactive
+450	Team17
+451	Team Bondi
+452	Team Ico
+453	Team Ninja
+454	Techland
+455	Telltale Games
+456	Tencent
+457	Tequila Works
+458	Terminal Reality
+459	Teyon
+460	The9
+461	The Chinese Room
+462	THQ
+463	Three Rings Design
+464	TimeGate Studios
+465	Toaplan
+466	ToeJam & Earl Productions
+467	TopWare Interactive
+468	Torpex Games
+469	Torus Games
+470	Tose
+471	Toys for Bob
+472	Trapdoor
+473	Transmission Games
+474	Travellers Tales
+475	Treyarch
+476	Treasure
+477	tri-Ace
+478	Tripwire Interactive
+479	Triumph Studios
+480	Turn 10 Studios
+481	Turtle Rock Studios
+482	Two Tribes
+483	Tygron
+484	Typhoon Games
+485	Ubisoft
+486	Ultimate Play the Game
+487	Unique Development Studios
+488	United Front Games
+489	Universomo
+490	Valve Corporation
+491	Vanillaware
+492	Venan Entertainment
+493	Vicarious Visions
+494	Vigil Games
+495	Virtual Heroes, Inc.
+496	Visceral Games
+497	Visual Concepts
+498	Vivendi Games
+499	Viwawa
+500	Volition
+501	Vostok Games
+502	VoxelStorm
+503	Wahoo Studios
+504	Wanako Games
+505	Warhorse Studios
+506	Wargaming
+507	Wargaming Saint Petersburg
+508	WB Games
+509	Webfoot Technologies
+510	Westwood Studios
+511	Westone Bit Entertainment
+512	Wideload Games
+513	Wildfire Studios
+514	Wizet
+515	Wolfire Games
+516	World Forge
+517	XPEC Entertainment
+518	Yager Development
+519	Yukes
+520	ZeniMax Online Studios
+521	Zipper Interactive
+522	Zombie Studios
+523	ZootFly
+524	Zylom
+525	Zynga

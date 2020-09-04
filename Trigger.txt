@@ -1,0 +1,34 @@
+1)Trigger controllo aggiornameto prezzi dei giochi
+
+DROP TRIGGER IF EXISTS ControlloPrezzo;
+
+DELIMITER $$
+CREATE TRIGGER ControlloPrezzo
+AFTER UPDATE ON Gioco
+FOR EACH ROW
+BEGIN
+DECLARE num integer(100);
+SELECT count(g.IdGioco) INTO num FROM Gioco g WHERE Prezzo='0.00';
+IF num>0 THEN 
+SIGNAL SQLSTATE '02000' SET MESSAGE_TEXT = 'Warning';
+END IF;
+END;
+$$
+DELIMITER ;
+
+--------------------------------------------------
+2)Trigger per controllo di un aventuale cambio di password
+
+DROP TRIGGER IF EXISTS upd_pass;
+
+DELIMITER $$
+CREATE TRIGGER upd_pass BEFORE UPDATE ON Utente
+FOR EACH ROW 
+BEGIN
+IF new.Password IS NULL OR new.Password = old.Password THEN
+SIGNAL SQLSTATE '02000' SET MESSAGE_TEXT = 'Warning password non valida';
+END IF;
+$$
+DELIMITER ;
+
+update Utente set Password='' where Username ='Bubbleware';

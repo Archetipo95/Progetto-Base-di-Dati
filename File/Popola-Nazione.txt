@@ -1,0 +1,203 @@
+1	Afghanistan
+2	Albania
+3	Algeria
+4	Andorra
+5	Angola
+6	Antigua and Barbuda
+7	Argentina
+8	Armenia
+9	Aruba
+10	Australia
+11	Austria
+12	Azerbaijan
+13	Bahamas
+14	Bahrain
+15	Bangladesh
+16	Barbados
+17	Belarus
+18	Belgium
+19	Belize
+20	Benin
+21	Bhutan
+22	Bolivia
+23	Bosnia and Herzegovina
+24	Botswana
+25	Brazil
+26	Brunei
+27	Bulgaria
+28	Burkina Faso
+29	Burma
+30	Burundi
+31	Cambodia
+32	Cameroon
+33	Canada
+34	Cabo Verde
+35	Central African Republic
+36	Chad
+37	Chile
+38	China
+39	Colombia
+40	Comoros
+41	Democratic Republic of the Congo
+42	Costa Rica
+43	Cote dIvoire
+44	Croatia
+45	Cuba
+46	Curacao
+47	Cyprus
+48	Czech Republic
+49	Denmark
+50	Djibouti
+51	Dominica
+52	Dominican Republic
+53	Ecuador
+54	Egypt
+55	El Salvador
+56	Equatorial Guinea
+57	Eritrea
+58	Estonia
+59	Ethiopia
+60	Fiji
+61	Finland
+62	France
+63	Gabon
+64	Gambia
+65	Georgia
+66	Germany
+67	Ghana
+68	Greece
+69	Grenada
+70	Guatemala
+71	Guinea
+72	Guinea-Bissau
+73	Guyana
+74	Haiti
+75	Holy See
+76	Honduras
+77	Hong Kong
+78	Hungary
+79	Iceland
+80	India
+81	Indonesia
+82	Iran
+83	Iraq
+84	Ireland
+85	Israel
+86	Italy
+87	Jamaica
+88	Japan
+89	Jordan
+90	Kazakhstan
+91	Kenya
+92	Kiribati
+93	North Korea
+94	South Korea
+95	Kosovo
+96	Kuwait
+97	Kyrgyzstan
+98	Laos
+99	Latvia
+100	Lebanon
+101	Lesotho
+102	Liberia
+103	Libya
+104	Liechtenstein
+105	Lithuania
+106	Luxembourg
+107	Macau
+108	Macedonia
+109	Madagascar
+110	Malawi
+111	Malaysia
+112	Maldives
+113	Mali
+114	Malta
+115	Marshall Islands
+116	Mauritania
+117	Mauritius
+118	Mexico
+119	Micronesia
+120	Moldova
+121	Monaco
+122	Mongolia
+123	Montenegro
+124	Morocco
+125	Mozambique
+126	Namibia
+127	Nauru
+128	Nepal
+129	Netherlands
+130	New Zealand
+131	Nicaragua
+132	Niger
+133	Nigeria
+134	North Korea
+135	Norway
+136	Oman
+137	Pakistan
+138	Palau
+139	Palestine
+140	Panama
+141	Papua New Guinea
+142	Paraguay
+143	Peru
+144	Philippines
+145	Poland
+146	Portugal
+147	Qatar
+148	Romania
+149	Russia
+150	Rwanda
+151	Saint Kitts and Nevis
+152	Saint Lucia
+153	Saint Vincent and the Grenadines
+154	Samoa
+155	San Marino
+156	Sao Tome and Principe
+157	Saudi Arabia
+158	Senegal
+159	Serbia
+160	Seychelles
+161	Sierra Leone
+162	Singapore
+163	Sint Maarten
+164	Slovakia
+165	Slovenia
+166	Solomon Islands
+167	Somalia
+168	South Africa
+169	South Korea
+170	South Sudan
+171	Spain
+172	Sri Lanka
+173	Sudan
+174	Suriname
+175	Swaziland
+176	Sweden
+177	Switzerland
+178	Syria
+179	Taiwan
+180	Tajikistan
+181	Tanzania
+182	Thailand
+183	Timor-Leste
+184	Togo
+185	Tonga
+186	Trinidad and Tobago
+187	Tunisia
+188	Turkey
+189	Turkmenistan
+190	Tuvalu
+191	Uganda
+192	Ukraine
+193	United Arab Emirates
+194	United Kingdom
+195	United States
+196	Uruguay
+197	Uzbekistan
+198	Vanuatu
+199	Venezuela
+200	Vietnam
+201	Yemen
+202	Zambia
+203	Zimbabwe

@@ -1,0 +1,85 @@
+1) Dato il nome di un utente calcolare quante ore ha giocato in media a tutti i suoi giochi
+
+DROP FUNCTION IF EXISTS MediaOreGiocate;
+
+DELIMITER $$
+CREATE FUNCTION MediaOreGiocate (user varchar(150))
+RETURNS integer (100)
+BEGIN 
+DECLARE numGiochi integer (50);
+DECLARE somma integer (100);
+DECLARE media integer (100);
+select count(IdGioco) into numGiochi from Libreria where IdUtente=user;
+select sum(OreGiocate) into somma from Libreria where IdUtente=user;
+SET media=somma/numGiochi;
+return media;
+END;
+$$
+DELIMITER ;
+
+-------------------------------------------------------------------------------------
+
+2a)Dato il nome di un utente mostrare il valore in euro della sua libreria
+   
+DROP FUNCTION IF EXISTS ValoreLibreria;
+   
+DELIMITER $$
+CREATE FUNCTION ValoreLibreria(utente varchar(100))
+RETURNS double(6,2)
+BEGIN
+DECLARE valore double(6,2);
+select sum(g.Prezzo) into valore from Libreria l, Gioco g where l.IdGioco=g.IdGioco and l.IdUtente=utente;
+return valore;
+END;
+$$
+DELIMITER ;
+
+2b)Dato il nome di un utente mostrare il valore in euro della sua lista desideri
+
+DROP FUNCTION IF EXISTS ValoreListaDesideri;
+
+DELIMITER $$
+
+CREATE FUNCTION ValoreListaDesideri(utente varchar(100))
+RETURNS double(6,2)
+BEGIN
+DECLARE valore double (6,2);
+select sum(g.Prezzo) into valore from Gioco g,Libreria l where g.IdGioco=l.IdGioco and l.IdUtente=utente;
+return valore;
+END;
+$$
+DELIMITER ;
+---------------------------------------------------------------------------------------------
+3)Dato il nome di un gioco dire se è economico oppure costoso in base al prezzo medio degli altri giochi
+
+
+DROP FUNCTION IF EXISTS ValoreGioco;
+
+DELIMITER $$
+CREATE FUNCTION ValoreGioco(giocoCercato varchar(50))
+RETURNS varchar(50)
+BEGIN
+DECLARE risultato varchar(50);
+DECLARE n integer(10);
+DECLARE media double(6,2);
+select avg(Prezzo) into media from Gioco;
+select Prezzo into n from Gioco where Nome=giocoCercato;
+IF n IS NULL THEN SET risultato='Gioco non esistente';
+ELSE
+IF n<media-10 THEN SET risultato='Economico';END IF;
+IF n>=media-10 AND n<=media+10 THEN SET risultato='Nella media';END IF;
+IF n>media+10 THEN SET risultato='Costoso';END IF;
+
+END IF;
+return risultato;
+END;
+$$
+DELIMITER ;
+
+
+
+
+
+
+   
+   

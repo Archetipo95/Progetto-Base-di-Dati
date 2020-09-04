@@ -1,0 +1,10 @@
+1	Miba	8.99	2011-01-07	Completato
+2	Oba	92.59	2016-03-13	Completato
+3	Oba	38.99	2015-10-13	Completato
+4	Inte	95.15	2011-07-07	Completato
+5	Inte	34.35	2010-01-07	Completato
+6	Skinti	98.44	2016-08-15	Completato
+7	Skinti	63.55	2016-08-16	Completato
+8	Omm	37.00	2016-08-17	Completato
+9	Placero	52.13	2015-02-05	Completato
+10	Placero	20.64	2015-07-31	Completato

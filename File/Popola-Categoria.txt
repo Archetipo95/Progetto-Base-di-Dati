@@ -1,0 +1,50 @@
+1	Action
+2	Platform
+3	Shooter
+4	Stealth
+5	Survival
+6	Action-adventure
+7	Survival horror
+8	Adventure
+9	Text adventures
+10	Graphic adventures
+11	Visual novels
+12	Interactive movie
+13	Real-time 3D adventures
+14	Role-playing
+15	Action RPG
+16	MMORPG
+17	Roguelikes
+18	Tactical RPG
+19	Sandbox RPG
+20	First-person party-based RPG
+21	Cultural differences
+22	Choices
+23	Fantasy
+24	Simulation
+25	Construction and management simulation
+26	Life simulation
+27	Vehicle simulation
+28	Strategy
+29	Artillery game
+30	Real-time strategy (RTS)
+31	Real-time tactics (RTT)
+32	Multiplayer online battle arena (MOBA)
+33	Tower defense
+34	Turn-based strategy (TBS)
+35	Turn-based tactics (TBT)
+36	Wargame
+37	Grand strategy wargame
+38	Sports
+39	Racing
+40	Competitive
+41	Sports-based fighting
+42	MMO
+43	Casual game
+44	Music game
+45	Party game
+46	Programming game
+47	Logic game
+48	Trivia game
+49	Board game/Card game
+50	Idle gaming

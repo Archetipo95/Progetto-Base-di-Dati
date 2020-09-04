@@ -1,0 +1,91 @@
+-------------------------------------------------------------------------------
+1)Visualizzare la libreria di ogni utente:
+
+SELECT l.IdUtente,g.Nome as Gioco,l.OreGiocate 
+FROM Libreria l,Gioco g 
+WHERE g.IdGioco=l.IdGioco;
+
+-------------------------------------------------------------------------------
+2)Visualizzare le ore totali giocate dagli utenti:
+
+SELECT l.IdUtente,sum(l.Oregiocate) as OreGiocateTotali 
+FROM Libreria l 
+GROUP BY l.IdUtente;
+
+-------------------------------------------------------------------------------
+3)Visualizzare gli Achievement sbloccati per ogni utente e ordinarli per nome:
+
+SELECT asb.IdUtente, a.Nome, a.Descrizione, asb.Data 
+FROM AchievementSbloccati asb, Achievement a 
+WHERE asb.IdAchievement=a.IdAchievement 
+ORDER BY asb.IdUtente;
+ 
+-------------------------------------------------------------------------------
+4)Visualizzare l’ordine dell’utente “Inte” nel periodo 2010/01/07 e 2017/01/07:
+
+SELECT g.Nome as Prodotto, g.Prezzo, o.DataOrdine  
+FROM Gioco g, Prodotto p , Ordine o 
+WHERE o.IdOrdine=p.IdOrdine 
+AND p.IdGioco=g.IdGioco 
+AND o.DataOrdine BETWEEN '2010-01-07' AND '2017/01/07' 
+AND o.IdUtente='Inte';
+ 
+-------------------------------------------------------------------------------
+5)Visualizzare i giochi più giocati dagli  amici di Dynante:
+
+DROP VIEW IF EXISTS GiochiAmici;
+
+CREATE VIEW GiochiAmici AS 
+SELECT a.IdAmico as Username, g.Nome as NomeGioco, l.OreGiocate
+FROM Amico a, Libreria l, Gioco g
+WHERE a.IdUtente='Dynante' and a.IdAmico=l.IdUtente and l.IdGioco=g.IdGioco;
+ 
+SELECT Username, NomeGioco, OreGiocate
+FROM GiochiAmici
+GROUP BY Username 
+HAVING max(OreGiocate); 	
+	
+-------------------------------------------------------------------------------
+6)Visualizzare il numero di Achievement disponibili per ogni gioco compresi i
+giochi senza achievement:
+
+SELECT g.IdGioco AS Id, g.Nome, COUNT(a.IdAchievement) AS 'Numero Achievement' 
+FROM Gioco g LEFT JOIN AchievementDisponibili a ON g.IdGioco=a.IdGioco 
+GROUP BY g.IdGioco;
+-------------------------------------------------------------------------------
+7)Visualizza le prime dieci lingue utilizzate piu' frequentemente nei Giochi
+
+SELECT B.Nome, count(A.IdLingua) as Frequenza 
+FROM LinguaDisponibile A, Lingua B 
+WHERE A.IdLingua=B.IdLingua group by A.IdLingua 
+ORDER BY Frequenza DESC 
+LIMIT 10;
+-------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
